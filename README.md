@@ -1,5 +1,7 @@
 # super-mall
 
+## vue practice
+
 ## Project setup
 ```
 npm install
